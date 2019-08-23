@@ -1,5 +1,5 @@
 # Projet de conception centrée utilisateur 
-# Carte interactive dans un restauran
+           Carte interactive dans un restauran
 # Professeurs encadrants​: 
                           Gilles Bailly
                           Cyril Concolato
